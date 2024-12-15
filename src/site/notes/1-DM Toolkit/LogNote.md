@@ -5,6 +5,6 @@
 # Log für unsere Tomb of Annihilation Kampagne
 
 
-## Die Party
-
 [[1-Party/Party ToA/Party ToA\|Party ToA]]
+
+[[1-Session Journals/ToA/Session Notes/Sessions\|Sessions]]
