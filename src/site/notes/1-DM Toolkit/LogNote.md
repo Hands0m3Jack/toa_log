@@ -7,4 +7,8 @@
 
 [[1-Party/Party ToA/Party ToA\|Party ToA]]
 
-[[1-Session Journals/ToA/Session Notes/Sessions\|Sessions]]
+[[1-Session Journals/ToA/Session Notes/Session Notes\|Session Notes]]
+
+[[2-Campaign/Aktive Quests\|Aktive Quests]]
+
+[[2-Campaign/Abgeschlossene Quests\|Abgeschlossene Quests]]
