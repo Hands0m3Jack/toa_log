@@ -6,6 +6,5 @@
 | ------------------------------------------------------------------------------------- | ----------- | ----------- | ------------- | ------------------------------------------------------------------------------------ | ----------------- | ---------------- |
 | [[2-Campaign/Quests/Beat the Goblin\|Beat the Goblin]]                             | Complete    | \-          | \-            | [[1-Session Journals/ToA/Session Notes/2024-12-12 ToA S001\|2024-12-12 ToA S001]] | \-                | \-               |
 | [[2-Campaign/Quests/Abendessen mit Wakanga O'tamu\|Abendessen mit Wakanga O'tamu]] | In Progress | Peace       | Port Nyanzaru | [[1-Session Journals/ToA/Session Notes/2024-12-12 ToA S001\|2024-12-12 ToA S001]] | \-                | \-               |
-| [[2-Campaign/Quests/Test\|Test]]                                                   | Not Started | \-          | \-            | \-                                                                                   | \-                | \-               |
 
 { .block-language-dataview}
