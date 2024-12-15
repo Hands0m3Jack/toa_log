@@ -9,6 +9,5 @@
 
 [[1-Session Journals/ToA/Session Notes/Session Notes\|Session Notes]]
 
-[[2-Campaign/Aktive Quests\|Aktive Quests]]
+[[2-Campaign/Quests\|Quests]]
 
-[[2-Campaign/Abgeschlossene Quests\|Abgeschlossene Quests]]
