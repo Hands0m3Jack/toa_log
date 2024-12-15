@@ -9,7 +9,7 @@ Im Hafen wurdet ihr von Peace angesprochen , welche euch darüber informierte, d
 
 ### Quest Objective
 
-- Findet euch nach Sonnenuntergang in seiner Villa zum Abendessen ein.
+- Findet euch nach Sonnenuntergang in Wakanga O'tamus Villa zum Abendessen ein.
 
 ### Rewards
 
