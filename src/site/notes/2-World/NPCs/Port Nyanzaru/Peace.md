@@ -5,25 +5,6 @@
 
 
 
-> [!infobox]
-> # Peace
-> ![ImagePlaceholder.png|cover hsmall](/img/user/z_Assets/Placeholder%20Images/ImagePlaceholder.png)
-> [[ImagePlaceholder.png|Show To Players]]
-> ###### Basic Information
-> Type |  Stat |
-> ---|---|
-> Home | Port Nyanzaru |
-> Group | `=this.AssociatedGroup` |
-> Sex | Female |
-> Race | Tabaxi |
-> Age | 26 |
-> Condition | Healthy |
-> ###### Rules Info
-> Type |  Stat |
-> ---|---|
-> Alignment | `=this.alignment` |
-> Class | `=this.class` |
-> Character Role | `=this.character-role` |
 
 # Peace
 ## Profile
@@ -36,20 +17,6 @@
 - She smells heavily of expensive cologne.
 
 ```
-::: hidden
 
-#### Personality Traits
-- She zealously worships Lathander, God of spring, dawn, birth, youth, vitality, athletics. (Neutral Good)
-- She changes subject very often.
-- She is very greedy.
-- She is currently obsessed by a nearby cave.
-- She frequently wags her tail.
-- She doesn't like her profession, has always dreamed of becoming a boatwoman.
-- She is totally oblivious to etiquette and social expectations.
-
-#### Hook
-- She is followed day and night by a a patronizing speaking mouse.
-
-:::
 ```
 
