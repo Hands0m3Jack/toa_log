@@ -5,7 +5,7 @@
 
 # Abendessen mit Wakanga O'tamu
 
-Im Hafen wurdet ihr von Peace angesprochen , welche euch darüber informierte, dass Wakanga O'tamu hat euch zum Abendessen eigeladen hat.
+Im Hafen wurdet ihr von [[2-World/NPCs/Port Nyanzaru/Peace\|Peace]] angesprochen , welche euch darüber informierte, dass [[2-World/NPCs/Port Nyanzaru/Wakanga O'Tamu\|Wakanga O'tamu]]  euch zum Abendessen eigeladen hat.
 
 ### Quest Objective
 
