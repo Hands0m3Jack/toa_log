@@ -10,11 +10,12 @@
 # Azuil Talro'a
 ## Profile
 ### Description
-long, wavy, red hair and blue eyes
-rugged taned skin
-164cm  tall and has a regular build
-round, ordinary face with a short beard
-kleine Creole am rechten Ohr
+She has long, wavy, brown hair and green eyes.
+She has silky golden skin.
+She stands 74cm (2'5") tall and has a muscular build.
+She has an edgy, asymmetrical face.
+She has a piercing on her right eyebrow.
+She rolls her "R"s profusely.
 
 ```
 
