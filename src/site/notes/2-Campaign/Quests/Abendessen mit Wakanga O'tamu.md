@@ -13,4 +13,5 @@ Im Hafen wurdet ihr von [[2-World/NPCs/Port Nyanzaru/Peace\|Peace]] angesprochen
 
 ### Rewards
 
-- List the rewards here.
+- Karte von Port Nyanzaru
+- Karte von Chult (unvollständig)
