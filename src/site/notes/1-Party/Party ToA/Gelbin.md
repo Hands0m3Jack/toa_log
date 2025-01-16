@@ -6,7 +6,7 @@
 
 # Gelbin
 
-**Level 1**
+**Level 1** Rogue 
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |

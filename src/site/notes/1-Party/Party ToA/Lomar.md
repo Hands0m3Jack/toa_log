@@ -5,7 +5,7 @@
 
 # Lomar
 
-**Level 1**
+**Level 1** Wizard
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |

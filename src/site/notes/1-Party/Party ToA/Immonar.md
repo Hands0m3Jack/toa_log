@@ -5,7 +5,7 @@
 
 # Immonar
 
-**Level 1**
+**Level 1** Sorcerer
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
