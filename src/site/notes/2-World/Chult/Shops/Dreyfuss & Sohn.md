@@ -17,28 +17,34 @@
 
 #### **Angebot:**
 
-| **Weapons**               | **Item Name**          | **Price** | **Armor**                 | **Item Name**          | **Price** |
-|---------------------------|------------------------|----------|---------------------------|------------------------|----------|
-| **Simple Melee Weapons**  | Dagger                | 2 gp     | **Light Armor**           | Studded Leather Armor | 45 gp    |
-|                           | Handaxe               | 5 gp     |                           |                       |          |
-|                           | Javelin               | 5 sp     | **Medium Armor**          | Chain Shirt           | 50 gp    |
-|                           | Light Hammer          | 2 gp     |                           | Scale Mail            | 50 gp    |
-|                           | Sickle                | 1 gp     |                           | Breastplate           | 400 gp   |
-|                           | Spear                 | 1 gp     |                           | Half Plate            | 750 gp   |
-| **Martial Melee Weapons** | Battleaxe             | 10 gp    | **Heavy Armor**           | Ring Mail             | 30 gp    |
-|                           | Flail                 | 10 gp    |                           | Chain Mail            | 75 gp    |
-|                           | Glaive                | 20 gp    |                           | Splint                | 200 gp   |
-|                           | Greataxe              | 30 gp    |                           | Plate                 | 1500 gp  |
-|                           | Greatsword            | 50 gp    | **Shield**                | Shield                | 10 gp    |
-|                           | Halberd               | 20 gp    |                           |                       |          |
-|                           | Lance                 | 10 gp    |                           |                       |          |
-|                           | Longsword             | 15 gp    |                           |                       |          |
-|                           | Maul                  | 10 gp    |                           |                       |          |
-|                           | Morningstar           | 15 gp    |                           |                       |          |
-|                           | Pike                  | 5 gp     |                           |                       |          |
-|                           | Rapier                | 25 gp    |                           |                       |          |
-|                           | Scimitar              | 25 gp    |                           |                       |          |
-|                           | Shortsword            | 10 gp    |                           |                       |          |
+| **Weapons**                | **Item Name**        | **Price** | **Armor**        | **Item Name**         | **Price** |
+| -------------------------- | -------------------- | --------- | ---------------- | --------------------- | --------- |
+| **Simple Melee Weapons**   | Dagger               | 2 gp      | **Light Armor**  | Studded Leather Armor | 45 gp     |
+|                            | Handaxe              | 5 gp      |                  |                       |           |
+|                            | Javelin              | 5 sp      | **Medium Armor** | Chain Shirt           | 50 gp     |
+|                            | Light Hammer         | 2 gp      |                  | Scale Mail            | 50 gp     |
+|                            | Sickle               | 1 gp      |                  | Breastplate           | 400 gp    |
+|                            | Spear                | 1 gp      |                  | Half Plate            | 750 gp    |
+| **Martial Melee Weapons**  | Battleaxe            | 10 gp     | **Heavy Armor**  | Ring Mail             | 30 gp     |
+|                            | Flail                | 10 gp     |                  | Chain Mail            | 75 gp     |
+|                            | Glaive               | 20 gp     |                  | Splint                | 200 gp    |
+|                            | Greataxe             | 30 gp     |                  | Plate                 | 1500 gp   |
+|                            | Greatsword           | 50 gp     | **Shield**       | Shield                | 10 gp     |
+|                            | Halberd              | 20 gp     |                  |                       |           |
+|                            | Lance                | 10 gp     |                  |                       |           |
+|                            | Longsword            | 15 gp     |                  |                       |           |
+|                            | Maul                 | 10 gp     |                  |                       |           |
+|                            | Morningstar          | 15 gp     |                  |                       |           |
+|                            | Pike                 | 5 gp      |                  |                       |           |
+|                            | Rapier               | 25 gp     |                  |                       |           |
+|                            | Scimitar             | 25 gp     |                  |                       |           |
+|                            | Shortsword           | 10 gp     |                  |                       |           |
+| **Simple Ranged Weapons**  | Light Crossbow       | 25 gp     |                  |                       |           |
+|                            | Shortbow             | 25 gp     |                  |                       |           |
+| **Martial Ranged Weapons** | Hand Crossbow        | 75 gp     |                  |                       |           |
+|                            | Heavy Crossbow       | 50 gp     |                  |                       |           |
+|                            |    Longbow     |    50 gp |                  |                       |           |
+
 
 
 | Arrow (Quantity)           | Effect                                                                                                                                                                                                                                                       | Price       |

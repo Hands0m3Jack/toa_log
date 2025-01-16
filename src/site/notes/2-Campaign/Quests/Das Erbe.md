@@ -5,7 +5,7 @@
 
 # Das Erbe
 
-[[3-Mechanics/CLI/bestiary/npc/azaka-stormfang-toa\|Azaka Stormfang]] hat angeboten euch durch Chult zu führen und euch dabei zu unterstützen den Death Curse aufzuheben. Dafür nimmt sie 5 gp pro Tag und will 150 gp vorab gezahlt bekommen.
+[[2-World/NPCs/Port Nyanzaru/Azaka Stormfang\|Azaka Stormfang]] hat angeboten euch durch Chult zu führen und euch dabei zu unterstützen den Death Curse aufzuheben. Dafür nimmt sie 5 gp pro Tag und will 150 gp vorab gezahlt bekommen.
 Wenn ihr jedoch helft ihr Familienerbstück zu finden, wird sie euch unentgeltlich helfen, schließlich wäscht eine Hand die andere.
 
 ### Quest Objective
