@@ -3,7 +3,7 @@
 ---
 
 
-# Lomar
+# Lomar - Nasti
 
 **Level 1** Wizard
 

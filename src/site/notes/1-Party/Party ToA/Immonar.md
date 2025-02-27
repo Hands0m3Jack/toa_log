@@ -3,7 +3,7 @@
 ---
 
 
-# Immonar
+# Immonar - Mellow
 
 **Level 1** Sorcerer
 
