@@ -5,7 +5,7 @@
 
 # Lomar - Nasti
 
-**Level 1** Wizard
+**Level 3** Wizard
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |

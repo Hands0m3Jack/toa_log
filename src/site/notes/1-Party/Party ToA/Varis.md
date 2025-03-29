@@ -5,7 +5,7 @@
 
 # Varis - Ruben
 
-**Level 1** Ranger
+**Level 3** Ranger
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |

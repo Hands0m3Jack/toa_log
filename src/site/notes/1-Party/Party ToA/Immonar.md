@@ -5,7 +5,7 @@
 
 # Immonar - Mellow
 
-**Level 1** Sorcerer
+**Level 3** Sorcerer
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
