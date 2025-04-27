@@ -15,6 +15,14 @@
 - Sie ist eine erfahrene Führerin durch den Dschungel und kennt jedes Geheimnis des wilden Landes, das sie in ihrer Tigerform durchstreift hat.
 - Azaka hat eine tiefe Verbindung zur Natur und ist mit Saja N'baza, der mächtigen und weisen Naga von Orolunga, bekannt. Sie führt diejenigen, die nach Führung suchen, zu dieser mystischen Kreatur.
 
+### Background
+- Mutter Amelia
+- Aufgewachsen im Valley of  Dread am Fuße der Sanrach Mountains
+- kennt Saja N'Baza [[compendium/bestiary/monstrosity/guardian-naga\|Guardian Naga]] in Orolunga
+- war in Kir Sibal und kennt:
+	- [[3-Mechanics/CLI/bestiary/npc/asharra-toa\|Asharra]] Anfüherin
+	- Princess [[3-Mechanics/CLI/bestiary/npc/mwaxanare-toa\|Mwaxanaré]] und ihren Bruder [[3-Mechanics/CLI/bestiary/npc/na-toa\|Na]] Nachkommen und Erben der Königlichen Linie von Omu 
+
 ### Kosten
 
 - Azaka fordert 5 Goldmünzen pro Tag für ihre Dienste als Führerin, verlangt jedoch eine Vorauszahlung für 30 Tage. 
@@ -41,7 +49,7 @@
 
 ### Plot Hook
 
-Azaka Stormfang bietet ihre Dienste als Führerin durch den Dschungel an, verlangt aber, dass Abenteurer ihr helfen, ein gestohlenes Erbstück – eine Holzmaske, die das Gesicht eines Tigers darstellt – von den Pterafolken des Firefinger zurückzuholen. Während sie die Gruppe zu gefährlichen Orten führt, wird ihre wahre Natur langsam enthüllt, und sie könnte sich irgendwann zu einem mächtigen Verbündeten oder einer unerforschten Gefahr entwickeln, je nachdem, wie das Abenteuer verläuft.
+Azaka Stormfang bietet ihre Dienste als Führerin durch den Dschungel an, verlangt aber, dass Abenteurer ihr helfen, ein gestohlenes Erbstück – eine Holzmaske, die das Gesicht eines Tigers darstellt – von den Pterafolk des Firefinger zurückzuholen. Während sie die Gruppe zu gefährlichen Orten führt, wird ihre wahre Natur langsam enthüllt, und sie könnte sich irgendwann zu einem mächtigen Verbündeten oder einer unerforschten Gefahr entwickeln, je nachdem, wie das Abenteuer verläuft.
 
 
 ```
@@ -108,5 +116,5 @@ Azaka Stormfang bietet ihre Dienste als Führerin durch den Dschungel an, verlan
 "source":
 - "ToA"
 "image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/ToA/Azaka%20Stormfang.webp"
-```
-^statblock
+```{ #statblock}
+
