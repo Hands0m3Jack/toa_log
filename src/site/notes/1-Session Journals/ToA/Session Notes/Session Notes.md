@@ -12,5 +12,6 @@
 | [[1-Session Journals/ToA/Session Notes/2025-04-03 ToA S006\|2025-04-03 ToA S006]] |
 | [[1-Session Journals/ToA/Session Notes/2025-04-19 ToA S007\|2025-04-19 ToA S007]] |
 | [[1-Session Journals/ToA/Session Notes/2025-04-27 ToA S008\|2025-04-27 ToA S008]] |
+| [[1-Session Journals/ToA/Session Notes/2025-06-12 ToA S009\|2025-06-12 ToA S009]] |
 
 { .block-language-dataview}
